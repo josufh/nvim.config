@@ -15,6 +15,8 @@ vim.opt.expandtab = true
 vim.opt.showmatch = true
 vim.opt.cursorline = true
 
+vim.opt.spell = false
+
 vim.cmd.colorscheme("tokyonight-night")
 
 vim.filetype.add({
